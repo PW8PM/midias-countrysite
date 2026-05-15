@@ -1,0 +1,15 @@
+{
+  "name": "Central de Mídias Countrysite",
+  "short_name": "Countrysite",
+  "start_url": "/midias-countrysite/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "logo-countrysite.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
